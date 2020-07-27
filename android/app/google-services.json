@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149046097892",
+    "firebase_url": "https://maverickred2245.firebaseio.com",
+    "project_id": "maverickred2245",
+    "storage_bucket": "maverickred2245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149046097892:android:a709617e7eb3e37c7539f1",
+        "android_client_info": {
+          "package_name": "com.example.maverick_red_2245"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149046097892-saqjmur9rb5vnipe77pmvsb7f1h5rrg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maverick_red_2245",
+            "certificate_hash": "c75e2b0921470b78869f55e04367583d5caeabb6"
+          }
+        },
+        {
+          "client_id": "149046097892-nbpq9jm6pg5l3u69peth4ba97bg6d7vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS9XHTw1eRaNyxsM3_qJEkQpvp2PF2QQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149046097892-nbpq9jm6pg5l3u69peth4ba97bg6d7vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
